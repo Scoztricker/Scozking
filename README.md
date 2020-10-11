@@ -300,4 +300,4 @@ def pilih_super():
 		except OSError:
 			pass
 		try:
-  [ok] +100052442540615 pass king00
+  [ok] +100052442540615 pass king01
